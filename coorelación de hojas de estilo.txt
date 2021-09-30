@@ -1,0 +1,16 @@
+style1 = https://d1di2lzuh97fh2.cloudfront.net/files/3n/3nm/3nmax0.css?ph=771c05e08f
+style2 = "https://d1di2lzuh97fh2.cloudfront.net/files/1i/1iv/1ivb41.css?ph=771c05e08f" media="screen and (min-width:37.5em)" rel="stylesheet"
+style3 = "https://d1di2lzuh97fh2.cloudfront.net/files/0o/0oq/0oq7ka.css?ph=771c05e08f" media="print" rel="stylesheet"
+style4 = "https://d1di2lzuh97fh2.cloudfront.net/files/18/18s/18sujh.css?ph=771c05e08f" rel="preload stylesheet" as="style"
+style5 = "https://d1di2lzuh97fh2.cloudfront.net/files/3g/3gg/3ggjzy.css?ph=771c05e08f" data-wnd_color_scheme_file=""
+style6 = https://d1di2lzuh97fh2.cloudfront.net/files/48/48b/48bplw.css?ph=771c05e08f
+style7 = "https://d1di2lzuh97fh2.cloudfront.net/files/2q/2q9/2q9dz9.css?ph=771c05e08f" data-wnd_additive_color_file=""
+style8 = https://d1di2lzuh97fh2.cloudfront.net/files/1o/1op/1opnzu.css?ph=771c05e08f
+style9 = https://d1di2lzuh97fh2.cloudfront.net/files/47/47l/47l9xw.css?ph=771c05e08f" data-wnd_typography_file=""
+style10 = https://d1di2lzuh97fh2.cloudfront.net/files/3q/3qj/3qj6qp.css?ph=771c05e08f
+
+
+
+primero.js = https://d1di2lzuh97fh2.cloudfront.net/files/44/44p/44pckz.js?ph=771c05e08f
+segundo.js = https://d1di2lzuh97fh2.cloudfront.net/client.fe/js.compiled/lang.es.602.js?ph=771c05e08f 
+tercero.js = https://d1di2lzuh97fh2.cloudfront.net/client.fe/js.compiled/compiled.multi.2-1094.js?ph=771c05e08f
